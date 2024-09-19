@@ -1,0 +1,8 @@
+body{
+  display: flex;
+  justify-content: center;
+  background-image: url(./assets/bg.png);
+  background-position: center;
+  background-size: cover;
+  height: 95vh;
+}
